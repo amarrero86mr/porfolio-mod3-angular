@@ -1,0 +1,18 @@
+{
+    "name":"Fernandito",
+    "backimage":"https://static.wixstatic.com/media/eacb11_32784c6e56074a3a9678eecab90fc144.jpg/v1/fill/w_933,h_152,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/eacb11_32784c6e56074a3a9678eecab90fc144.jpg",
+    "image":"galaga",
+    "position":"Pintor en Lakalumba",
+    "compañy": {
+        "name": "Lakalumba",
+        "img": "icon-lakalumba",
+        "url": "https://www.instagram.com/lakalumba/?__coig_restricted=1" 
+    },
+    "school":{
+        "name": "Esc. Tec. Casal Calviño",
+        "img": "none",
+        "url": "https://et23de13.wixsite.com/casalcalvino"
+    },
+    "ubication": "Buenos Aires, Argentina",
+    "about":"Pintor Industrial, estudiante de Desarrollo y Programación"
+}

@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+#margin2{
+    margin: 20px;
+    border-color: cadetblue;
+}
+#portada{
+    height: 210px;
+    Overflow: hidden;
+}
+#avatar{
+    margin-left: 15px;
+    margin-top: -50px;
+}
+#link-reference{
+    list-style-type: none;
+    
+}
